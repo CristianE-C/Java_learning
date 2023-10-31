@@ -1,6 +1,6 @@
 package java_udemi;
 
-public class lesson_2 {
+public class Lesson_2 {
     public static void main(String[] args) {
 
         // type byte

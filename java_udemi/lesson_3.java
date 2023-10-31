@@ -1,5 +1,5 @@
 package java_udemi;
-public class lesson_3 {
+public class Lesson_3 {
     public static void main(String [] args) {
 
         // ex1
